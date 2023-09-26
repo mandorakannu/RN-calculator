@@ -170,8 +170,6 @@ function App(): JSX.Element {
 const styles = StyleSheet.create({
   container: {
     height: Dimensions.get("window").height,
-    borderColor: "red",
-    borderWidth: 1,
     justifyContent: "flex-end",
     alignItems: "flex-end",
     paddingVertical: 20,
